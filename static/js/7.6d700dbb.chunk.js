@@ -1,0 +1,2 @@
+(this.webpackJsonppoliteiagui=this.webpackJsonppoliteiagui||[]).push([[7],{1212:function(i,a,p){i.exports=p.p+"static/media/about-politeia.a067ea6f.md"}}]);
+//# sourceMappingURL=7.6d700dbb.chunk.js.map

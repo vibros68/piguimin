@@ -1,0 +1,2 @@
+(this.webpackJsonppoliteiagui=this.webpackJsonppoliteiagui||[]).push([[10],{1215:function(i,p,a){i.exports=a.p+"static/media/paywall-politeia.f59cb8d5.md"}}]);
+//# sourceMappingURL=10.efce04b5.chunk.js.map

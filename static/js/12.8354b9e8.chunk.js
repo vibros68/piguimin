@@ -1,0 +1,2 @@
+(this.webpackJsonppoliteiagui=this.webpackJsonppoliteiagui||[]).push([[12],{1217:function(i,p,e){i.exports=e.p+"static/media/privacy-policy.2ee691de.md"}}]);
+//# sourceMappingURL=12.8354b9e8.chunk.js.map

@@ -1,0 +1,19 @@
+.nojs {
+  font-size: 0.85em;
+  margin: 15px auto;
+  max-width: 920px;
+  font-family: "Source Sans Pro", "Helvetica Neue", arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+
+}
+.nojs a {
+  color: #2971ff;
+  text-decoration: none;
+}
+.nojs a:hover {
+  color: #2971ff;
+  text-decoration: none;
+}
